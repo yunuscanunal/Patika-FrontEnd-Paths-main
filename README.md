@@ -1,4 +1,4 @@
-# Patika-FrontEnd-Paths
+# Patika Front End Paths
 >Yunuscan Unal
 >> [LinkedIn](http://linkedin.com/in/yunuscanunal/) - [Email](mailto:yunuscanunal1@gmail.com) - [Patika](https://app.patika.dev/yunuscanunal)
 
@@ -6,9 +6,8 @@
 
 ### About Repository
 This repository is about a course at patika.dev. The subject of the course is **Front-End Web Development** and this repository is including homeworks and projects given about different topics such as html, css, javascript etc. in that course.
-<br>
 
-Also, this repository contains the homeworks and paths of the **Acceleration Program**, as I was invited to the [*Patika.dev*](patika.dev) **Bootcamp Acceleration Program** and followed the syllabus.
+Also, this repository contains the homeworks and paths of the **Acceleration Program**, as I was invited to the [*Patika.dev*](patika.dev) **Bootcamp Acceleration Program** for the eight-week and followed the syllabus.
 
 *Images of syllabus are in below.*
 
@@ -52,9 +51,3 @@ Link: [Frontend Web Development Path for Beginners](https://app.patika.dev/egiti
 
 ##### Patika
 ![Patika.dev](img/601379013034050.png "Patika.dev")
-
-
-
-
-
-
