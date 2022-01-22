@@ -1,0 +1,62 @@
+body {
+    background-color: #E4F9F5 ;
+    list-style-position: inside;
+    color: #40514E ;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #11999E ;
+    text-align: center;
+}
+
+nav {
+    list-style-position: inside;
+}
+
+ul {
+
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #30e3cb4d;
+
+}
+
+li {
+float: left;
+}
+
+.ul-li {
+    list-style-type:upper-roman;
+    background-color: #E4F9F5 ;
+    float: none;
+    margin:5px;
+    text-align: center;
+}
+
+li a {
+display: block;
+color: #070808;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+background-color: #11999E;
+}
+
+.active {
+    background-color: #11999E;
+}
+
+.margin-top{
+    margin-top: 10px;
+}
+
+.div-align {
+    margin-top: 15px;
+    text-align: center;
+}
